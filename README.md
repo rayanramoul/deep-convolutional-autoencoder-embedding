@@ -21,7 +21,7 @@ The notebook DeepAutoEncoder.ipynb contains examples on how to use the model eit
 ## Examples :
 
 ### Reconstruction :
-![](clustering_example.png)
+![](test_reconstructions/../test%20reconstructions/test_4png.png)
 
 ### Clusters :
-![](test_reconstructions/../test%20reconstructions/test_4png.png)
+![](clustering_example.png)
