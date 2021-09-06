@@ -16,3 +16,12 @@ Modify the script train.sh with the different parameters you want.
 
 ## Use the model :
 The notebook DeepAutoEncoder.ipynb contains examples on how to use the model either for reconstruction or clustering.
+
+
+## Examples :
+
+### Reconstruction :
+![](clustering_example.png)
+
+### Clusters :
+![](test_reconstructions/../test%20reconstructions/test_4png.png)
